@@ -1,12 +1,5 @@
 A professional and functional admin panel for your X projects
 
-<<<<<<< HEAD
 ## Note: This repository is not completed yet and may have some issues
-=======
-I'm trying to make this template RTL for persian users...
-
-# copyright: [matx-react](https://github.com/uilibrary/matx-react)
-
 
 *I'll complete the README.md file as soon as my mission is complete.*
->>>>>>> 87820cdb98034aab2951c553b52a6d18871939e5
