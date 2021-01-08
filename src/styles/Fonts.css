@@ -1,0 +1,49 @@
+@font-face {
+    font-family: ryek;
+    src: url('../fonts/Yekan Bakh.ttf');
+}
+
+@font-face {
+    font-family: lyek;
+    src: url('../fonts/YekanBakh_Light.ttf');
+}
+
+@font-face {
+    font-family: bvazir;
+    src: url('../fonts/Vazir-Bold-FD-WOL.ttf');
+}
+
+@font-face {
+    font-family: rvazir;
+    src: url('../fonts/Vazir-FD-WOL.ttf');
+}
+
+@font-face {
+    font-family: lvazir;
+    src: url('../fonts/Vazir-Light-FD-WOL.ttf');
+}
+
+@font-face {
+    font-family: mvazir;
+    src: url('../fonts/Vazir-Medium-FD-WOL.ttf');
+}
+
+@font-face {
+    font-family: tvazir;
+    src: url('../fonts/Vazir-Thin-FD-WOL.ttf');
+}
+
+@font-face {
+    font-family: bshab;
+    src: url('../fonts/Shabnam-Bold-FD.ttf');
+}
+
+@font-face {
+    font-family: rshab;
+    src: url('../fonts/Shabnam-FD.ttf');
+}
+
+@font-face {
+    font-family: lshab;
+    src: url('../fonts/Shabnam-Light-FD.ttf');
+}
